@@ -1,0 +1,67 @@
+# General
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+.DS_Store
+Thumbs.db
+.Trash
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+.env/
+.venv
+# Node.js
+node_modules/
+dist/
+build/
+
+# Java
+*.class
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# C/C++
+*.o
+*.a
+*.so
+*.out
+*.exe
+build/
+bin/
+
+# Ruby
+.bundle/
+*.gem
+log/
+
+# JavaScript/TypeScript
+dist/
+out/
+*.tsbuildinfo
+
+# Docker
+*.dockerignore
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Unity
+Library/
+Temp/
+*.csproj
+*.pidb
+*.suo
